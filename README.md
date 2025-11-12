@@ -1,7 +1,6 @@
 # React Sharing-State-Between-Components (React 19 + Vite)
 
-[3. React 19.2 - Lesson 20 - Sharing State Between Components.pptx](https://github.com/user-attachments/files/23509907/3.React.19.2.-.Lesson.20.-.Sharing.State.Between.Components.pptx)
-
+https://www.youtube.com/watch?v=1JYtdE1VRLM&t=17s
 
 This project demonstrates sharing state between components in React:
 
